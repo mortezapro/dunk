@@ -1,0 +1,4 @@
+[11-Jan-2021 08:27:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jayezedo/public_html/new/jayezedoon/app/Http/Controllers/Admin/DashboardController.php on line 288
+[30-May-2021 05:14:16 UTC] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/jayezedo/public_html/app/Http/Controllers/Admin/DashboardController.php on line 597
+[02-Sep-2021 12:00:35 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jayezedo/public_html/app/Http/Controllers/Front/FrontController.php on line 166
+[02-Sep-2021 12:00:43 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jayezedo/public_html/app/Http/Controllers/Front/FrontController.php on line 166
